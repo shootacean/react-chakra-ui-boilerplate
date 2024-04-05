@@ -1,1 +1,1 @@
-# react-chakra-ui-boilerplate
+# react-chakra-ui-template
