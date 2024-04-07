@@ -5,6 +5,6 @@
 - [x] Setup React and Chakra UI
     - [x] React
     - [x] Chakra UI
-- [ ] Setup Formatter, Linter
+- [x] Setup Formatter, Linter
 - [ ] Setup SCA
 - [ ] Setup SAST
